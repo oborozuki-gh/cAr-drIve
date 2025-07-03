@@ -1,0 +1,3 @@
+model_name : new_test
+env : App\cAr-drIve.exe
+config_file : trainer_config.yaml
