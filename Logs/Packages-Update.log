@@ -50,3 +50,15 @@ The following packages were updated:
   com.unity.test-framework from version 1.1.16 to 1.1.33
   com.unity.textmeshpro from version 3.0.1 to 3.0.6
   com.unity.timeline from version 1.2.6 to 1.7.4
+
+=== Thu Jul  3 14:46:19 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 更新済:
+  com.unity.ai.navigation をバージョン 1.1.4 から 1.1.5 へ
+  com.unity.collab-proxy をバージョン 2.0.5 から 2.3.1 へ
+  com.unity.ide.rider をバージョン 3.0.24 から 3.0.28 へ
+  com.unity.ide.visualstudio をバージョン 2.0.18 から 2.0.22 へ
+  com.unity.timeline をバージョン 1.7.4 から 1.7.6 へ

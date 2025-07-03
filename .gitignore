@@ -28,6 +28,9 @@ ExportedObj/
 *.vs
 *.idea
 /results/
+settingParameters.txt
+logFullData.csv
+logTest.csv
 
 
 # Unity3D generated meta files
